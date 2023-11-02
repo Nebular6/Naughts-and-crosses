@@ -12,9 +12,6 @@ def check_vertical(current_board):                #for x in range(0,3):
         var3 = current_board[2][i]
         if (var1) and (var2) and (var3) == var1:
             winmessage()
-            
-
-
 
 def check_horizontal(current_board):
     for i in range(0,3):                         
@@ -40,7 +37,6 @@ def check_diagonal(current_board):
  
 def check_spaces(current_board):
     return
-
 
 def check_if_over(current_board):
     check_vertical(current_board)

@@ -1,7 +1,4 @@
 # Naughts-and-crosses
 I LOVE GROUP PROJECTSSSSS
 
-
-HI JAMIE WRITING THIS TO STANDARDISE VARIABLE NAMES AND SUBROUTINE NAMES
-
-board = [[,,][,,][,,]] # this will be the name of the 3d array of the whole board
+comit 1: i did fings uhh have ways to checkj the board if 3 in a row anyway you plaesee
